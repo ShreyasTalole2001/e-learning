@@ -6,12 +6,13 @@ e-Learning Portal using PHP and MySql for students. Students can learn from vide
 
 <h1>Features</h1>
 <ul>
+  <li>OTP authentication</li>
+  <li>Autometic email of marks using php mail()</li>
   <li>Landing Page</li>
   <li>User Dashboard</li>
   <li>Payment Integration using Razorpay</li>
   <li>Demo</li>
   <li>Chat Feature (Doubts Sectuin)</li>
-  <li>OTP authentication</li>
 </ul>
 
 <hr>
