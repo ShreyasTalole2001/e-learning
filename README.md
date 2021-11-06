@@ -2,6 +2,8 @@
 
 e-Learning Portal using PHP and MySql for students. Students can learn from video lectures.
 
+
+
 <h1>Features</h1>
 <ul>
   <li>Landing Page</li>
@@ -9,6 +11,7 @@ e-Learning Portal using PHP and MySql for students. Students can learn from vide
   <li>Payment Integration using Razorpay</li>
   <li>Demo</li>
   <li>Chat Feature (Doubts Sectuin)</li>
+  <li>OTP authentication</li>
 </ul>
 
 <hr>
