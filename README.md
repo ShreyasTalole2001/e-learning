@@ -1,6 +1,6 @@
 # e-learning Application
 
-A full functional e-learning application usng PHP and MySql. <br>
+An e-learning application usng PHP and MySql. <br>
 OTP authentication is done by using Fast2Sms API. <br>
 Autometic emials are send by using php mail() function. <br>
 
